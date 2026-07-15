@@ -5,6 +5,9 @@ HELP.md
 dist
 doc
 
+#dist
+dist
+
 # Logs
 logs
 *.log
